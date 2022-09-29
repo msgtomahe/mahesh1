@@ -1,4 +1,4 @@
 sthis is first line
 this is second line
 this line was modified
-this is the changes made
+this is the change
